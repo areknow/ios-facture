@@ -5,13 +5,6 @@
 //  Created by Arnaud Crowther on 12/21/13.
 //  Copyright (c) 2013 Arnaud Crowther. All rights reserved.
 //
-/**
- - Dont forget to rename all NSUserDefault variables!
- - Blank row being added on plus
- - Make notification work ALMOST THERE WOOOOOO
- - Add URL and payed arrays
- - Add priority array
-**/
 
 #import "MainViewControl.h"
 #import <CoreMotion/CoreMotion.h>
